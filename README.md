@@ -19,7 +19,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycremon
     <img align="center" alt="Wesley-npm" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
     <img align="center" alt="Wesley-AI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
     <img align="center" alt="Wesley-PS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-    <img height="150" align='right' src="https://cdn.discordapp.com/attachments/719673405317578786/908077683156615218/aaa.gif" />
+    <img height="150" align='right' src="https://media.discordapp.net/attachments/719673405317578786/908077170503585872/imgonline-com-ua-GIF-animation-mkbhSlfUnBdisEo.png?width=547&height=553" />
   </a>
 </div>
 
