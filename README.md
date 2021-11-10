@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/wesleycremonini">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=wesleycremonini&bg_color=DEG,000000,2C3E50&custom_title=Informações+Gerais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" custom_title='Linguagens Mais Usadas'
+    <img width='420em'  src="https://github-readme-stats.vercel.app/api?username=wesleycremonini&bg_color=DEG,000000,2C3E50&custom_title=Informações+Gerais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img width='420em' custom_title='Linguagens Mais Usadas'
 src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycremonini&bg_color=DEG,2C3E50,000000&custom_title=Linguagens&layout=compact&langs_count=7&theme=dark"/>
   </a>
 </div>
