@@ -31,3 +31,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycremon
 </div>
 
 ![Snake animation](https://github.com/wesleycremonini/wesleycremonini/blob/output/github-contribution-grid-snake.svg)
+
+<div align="center">
+  <img align="center" src="https://cdn.discordapp.com/attachments/719673405317578786/908435722090971176/r_592871_tmzQF.png" />
+</div>
