@@ -1,6 +1,3 @@
-<div align="center"><h1>Oi, eu sou o Wesley</h1></div>
-
-
 <div align="center">
   <a href="https://github.com/wesleycremonini">
     <img width='420em' height='180em' src="https://github-readme-stats.vercel.app/api?username=wesleycremonini&bg_color=DEG,000000,2C3E50&custom_title=Informações+Gerais&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
