@@ -21,7 +21,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycremon
 </div>
 
 <h3>Alguns Projetos:</h3>
-<a href='wesleycremonini.github.io/react-crud/' >Sistema de Login e CRUD React e Firebase</a> <br/>
+<a href='https://wesleycremonini.github.io/react-crud/' >Sistema de Login e CRUD React e Firebase</a> <br/>
 <a href='https://wesleycremonini.github.io/mem-game/'>Jogo de Memória React</a>
 
 ##
