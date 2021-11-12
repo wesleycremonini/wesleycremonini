@@ -32,3 +32,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=wesleycremon
 <div align="center">
   <img align="center" src="https://cdn.discordapp.com/attachments/719673405317578786/908435722090971176/r_592871_tmzQF.png" />
 </div>
+
+<h3>Alguns Projetos:</h3>
+<a href='wesleycremonini.github.io/react-crud/' >Sistema de Login e CRUD React e Firebase</a>
+<a href='https://wesleycremonini.github.io/mem-game/'>Jogo de Memória React</a>
