@@ -31,9 +31,3 @@
     <a target="_blank" href="wesleycb.2020@gmail.com"><img width="120" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   </div>
 </div>
-
-##
-
-<div align="center">
-  <img align="center" src="https://cdn.discordapp.com/attachments/719673405317578786/908435722090971176/r_592871_tmzQF.png" />
-</div>
